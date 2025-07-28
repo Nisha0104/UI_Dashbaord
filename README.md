@@ -31,8 +31,6 @@ A modern and responsive personal finance dashboard built with **React**. It help
 ## 📦 Installation
 
 ```bash
-# Clone the repo
-git clone https://github.com/your-username/finance-dashboard.git
 
 # Navigate to the project directory
 cd finance-dashboard
